@@ -1,0 +1,7 @@
+[project]
+name = "build-my-own-llama"
+version = "0.1.0"
+description = "I am building my own Llama model from scratch."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
